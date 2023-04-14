@@ -1,1 +1,1 @@
-# social-media-app
+# The Social Quad: a social media app
